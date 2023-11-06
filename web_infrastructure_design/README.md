@@ -17,3 +17,7 @@ Task #2:
 
 What is HTTPS
 What is a firewall
+
+Task #3:
+
+Application server vs web server

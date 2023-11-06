@@ -12,6 +12,7 @@ Task #1:
 
 How to avoid downtime when deploying new code
 High availability cluster (active-active/active-passive)
+
 Task #2:
 
 What is HTTPS
